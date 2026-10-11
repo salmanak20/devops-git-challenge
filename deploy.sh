@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-echo "Starting deployment..."
+echo "Deploying application on staging server..."
 echo "Application deployed successfully!"
